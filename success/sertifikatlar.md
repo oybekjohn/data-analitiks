@@ -1,4 +1,7 @@
 ---
+description: >-
+  Data analitika kursimizni muvaffaqiyatli tumomlagan o'quvchilarning
+  sertifikatlari!
 icon: file-certificate
 cover: >-
   https://images.unsplash.com/photo-1658235081451-0f5a4af2a1b4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8Q2VydGlmaWNhdGlvbnxlbnwwfHx8fDE3NDg2NjcxMzB8MA&ixlib=rb-4.1.0&q=85
