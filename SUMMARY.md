@@ -1,6 +1,7 @@
 # Table of contents
 
 * [BIZNING UNIVERSITET IT KURSLARI](README.md)
+* [MEN HAQIMDA](about-me.md)
 
 ## BIZNING KLUBLAR <a href="#klublar" id="klublar"></a>
 

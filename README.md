@@ -2,20 +2,6 @@
 icon: building-columns
 cover: .gitbook/assets/rtu-ai.jpg
 coverY: 62
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # BIZNING UNIVERSITET IT KURSLARI
